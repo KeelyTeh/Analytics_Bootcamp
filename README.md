@@ -1,5 +1,5 @@
 # Instacart Python Project
-This project analyzes Instacart's business using Python and its libaries.
+This project was conducted as part of CareerFoundry's Data Analytics Program.
 
 ## Objective
 Instacart is an online grocery store that operates through an app. Instacart is currently experiencing successful sales, but they want to look more closely at different sales patterns and their customers based on behavior and demographic segments. Through this segmentation, Instcart hopes to discover more effective strategies to grow and expand their business. 
@@ -12,8 +12,7 @@ This data set comprises information on the following business parameters:
 * Departments
 
 The full details on the data sets can be found here.
-* [The Instacart Online Grocery Shopping Dataset
-2017] (https://www.instacart.com/datasets/grocery-shopping-2017)
+* [The Instacart Online Grocery Shopping Dataset2017] (https://www.instacart.com/datasets/grocery-shopping-2017)
 * The customers data set was created by CareerFoundry for the purposes of this project.
 
 ## Tools
