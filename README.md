@@ -23,4 +23,3 @@ In addition to Python in Jupyter Notebook and Microsoft Excel, the following Pyt
 * Matplotlib for visualizations
 * Seaborn for visualizations
 * Scipy for data analysis
-* Plotly, Cufflinks, and Chart Studio on standby for interactive visuals (not actually used)
