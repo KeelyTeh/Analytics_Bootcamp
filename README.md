@@ -18,7 +18,7 @@ The data includes the following parameters:
 * Locations
 * Film languages
 
-The data was provided by CareerFoundry and is available [here](Source Data\dvdrental.tar).
+The data was provided by CareerFoundry and is available [here](https://github.com/KeelyTeh/Analytics_Bootcamp/tree/SQL_Rockbuster_Stealth_Analysis/Source%20Data).
 
 ## Tools
 Postegre SQL was used for this project, and Tableau was used to create the visualizations.
