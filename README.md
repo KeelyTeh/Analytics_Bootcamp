@@ -1,2 +1,2 @@
 # Analytics_Bootcamp
-View my SQL projects. I have experience with both MySQL and PostgreSQL.
+This resposity holds the various projects I completed in CareerFoundry's Data Analytics bootcamp.
