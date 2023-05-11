@@ -18,7 +18,7 @@ The data includes the following parameters:
 * Locations
 * Film languages
 
-The data was provided by CareerFoundry and is available [here](C:\Users\keely\Documents\Courses\CareerFoundry\Immersion\Achievement 3 - SQL\Rockbuster\Source Data\dvdrental.tar).
+The data was provided by CareerFoundry and is available [here](Files\Source Data\dvdrental.tar).
 
 ## Tools
 Postegre SQL was used for this project, and Tableau was used to create the visualizations.
