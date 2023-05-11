@@ -18,7 +18,7 @@ The data includes the following parameters:
 * Locations
 * Film languages
 
-The data was provided by CareerFoundry and is available [here](Source Data).
+The data was provided by CareerFoundry and is available [here](Files/Source Data).
 
 ## Tools
 Postegre SQL was used for this project, and Tableau was used to create the visualizations.
