@@ -12,7 +12,7 @@ This data set comprises information on the following business parameters:
 * Departments
 
 The full details on the data sets can be found here.
-* [The Instacart Online Grocery Shopping Dataset2017] (https://www.instacart.com/datasets/grocery-shopping-2017)
+* [The Instacart Online Grocery Shopping Dataset2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 * The customers data set was created by CareerFoundry for the purposes of this project.
 
 ## Tools
