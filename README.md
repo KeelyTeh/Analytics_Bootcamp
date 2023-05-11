@@ -16,7 +16,7 @@ The full details on the data sets can be found here.
 * The customers data set was created by CareerFoundry for the purposes of this project.
 
 ## Tools
-* Jupyter Notebook
+In addition to Python in Jupyter Notebook and Microsoft Excel, the following Python libraries were used.
 * Pandas for data analysis
 * Numpy for data analysis
 * Matplotlib for visualizations
