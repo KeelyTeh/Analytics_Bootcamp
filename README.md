@@ -2,7 +2,7 @@
 This project was conducted as part of CareerFoundry's Data Analytics Program.
 
 ## Objective
-![Instacart logo](https://github.com/KeelyTeh/CareerFoundryProgram/tree/Python_Instacart_Analysis/instacart_logo_and_wordmark.svg/)
+![Instacart logo](https://github.com/KeelyTeh/CareerFoundryProgram/tree/Python_Instacart_Analysis/Instacart_Logo.jpg)
 Instacart is an online grocery store that operates through an app. Instacart is currently experiencing successful sales, but they want to look more closely at different sales patterns and their customers based on behavior and demographic segments. Through this segmentation, Instcart hopes to discover more effective strategies to grow and expand their business. 
 
 ## Data
