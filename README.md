@@ -3,7 +3,7 @@ This project was conducted as part of CareerFoundry's Data Analytics Program.
 
 ## Objective
 ![Instacart Logo](Instacart_Logo.jpg)
-Instacart is an online grocery store that operates through an app. Instacart is currently experiencing successful sales, but they want to look more closely at different sales patterns and their customers based on behavior and demographic segments. Through this segmentation, Instcart hopes to discover more effective strategies to grow and expand their business. 
+>Instacart is an online grocery store that operates through an app. Instacart is currently experiencing successful sales, but they want to look more closely at different sales patterns and their customers based on behavior and demographic segments. Through this segmentation, Instcart hopes to discover more effective strategies to grow and expand their business. 
 
 ## Data
 This data set comprises information on the following business parameters:
