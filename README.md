@@ -10,6 +10,7 @@ Each year women experience abnormal infant birth weights and gestation times, wh
 CDC natality data was used for this project. This data set comprises information on the following parameters:
 * US state
 * Date (year and month)
+* Mother's education
 * Prenatal care start month
 * Number of births
 * Mother's average age (years)
