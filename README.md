@@ -15,7 +15,7 @@ CDC natality data was used for this project. This data set comprises information
 * Average infant birth weight (grams)
 
 The full details on the data sets can be found here.
-* [CDC Natality Data 2019-2021]([https://www.instacart.com/datasets/grocery-shopping-2017](https://drive.google.com/file/d/1DslWmyvQGbOwvAHInk9w2DN_NUaHd4k4/view?usp=sharing])
+* [CDC Natality Data 2019-2021](https://drive.google.com/file/d/1DslWmyvQGbOwvAHInk9w2DN_NUaHd4k4/view?usp=sharing)
 
 ## Tools
 In addition to Python in Jupyter Notebook and Microsoft Excel, the following Python libraries were used.
