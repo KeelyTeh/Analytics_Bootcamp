@@ -1,6 +1,8 @@
 # Natality Project
 This project was conducted as part of CareerFoundry's Data Analytics Program. However, all students chose their own data set for this project.
 
+To see the Tableau dashboard for this Python analysis, click [here](https://public.tableau.com/app/profile/keely7601/viz/AdvancedAnalytics6_7/Story1?publish=yes)
+
 ## Objective
 Each year women experience abnormal infant birth weights and gestation times, which puts them and their newborns in danger. A government medical agency wants to better understand the factors leading to untimely deliveries, so they can help ensure normal birth weights and gestation.
 
