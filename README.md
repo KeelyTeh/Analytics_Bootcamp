@@ -26,4 +26,3 @@ In addition to Python in Jupyter Notebook and Microsoft Excel, the following Pyt
 * Folium for geographical visualization
 * Json for geographical data points
 * Scikit-Learn for linear regression and cluster machine learning models
-* Statsmodels, a python module, for working with time series
