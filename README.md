@@ -9,13 +9,13 @@ Instacart is an online grocery store that operates through an app. Instacart is 
 This data set comprises information on the following business parameters:
 * Orders
 * Products
+* Order Products Prior
 * Customers 
 * Departments
 
-The full details on the data sets can be found here.
-* [The Instacart Online Grocery Shopping Dataset2017](https://www.instacart.com/datasets/grocery-shopping-2017)
-* The [customers data set](https://github.com/KeelyTeh/Analytics_Bootcamp/tree/Python_Instacart_Analysis/Source%20Data) was created by CareerFoundry for the purposes of this project.
-* The prices column in the [products data set](https://github.com/KeelyTeh/Analytics_Bootcamp/tree/Python_Instacart_Analysis/Source%20Data) was also created by CareerFoundry for the purposes of this project.
+The full details on the data sets can be found [here](https://drive.google.com/drive/folders/1_YBVPrqmpFRM_SmKD1sr0WE-WWoXThJ8?usp=sharing).
+* The customers data set was created by CareerFoundry for the purposes of this project.
+* The prices column in the products data set was also created by CareerFoundry for the purposes of this project.
 
 ## Tools
 In addition to Python in Jupyter Notebook and Microsoft Excel, the following Python libraries were used.
