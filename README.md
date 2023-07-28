@@ -7,8 +7,6 @@ This project was conducted as part of CareerFoundry's Data Analytics Program. I 
 * Data visualization
 * Reporting & presentation
 
-For this project, I created a database for a fictitious food company, HealthySnacks, which manufactures and sales unique clean, natural food products to grocery chains. This project was completed on my own, before enrolling in my data analytics bootcamp. At that point in time, I had already studied SQL and had just taken an 8-hour course on database design and normalization. The purpose of this project was to enhance my SQL skills by understanding database design and normalization. This project also gave me to opportunity to apply my domain skills in food manufacturing to data analytics.
-
 ## Objective  
 Every year in the US, extra demands are placed on hospitals and clinics during flu season, leading to staffing shortages and undesirable health outcomes because of those staffing shortages. My goal was to help mitigate medical staffing shortages in hospitals and clinics across the US during flu season. By using deaths and population data, I determined the areas of greatest need, so the correct amount of staff could be sent at the right times of the year. 
 
